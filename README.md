@@ -25,12 +25,15 @@ Step 1: Prepare Data for EDA
 ```bash
 python prepare_eda_data.py
 ```
+
 Use code with caution.
+
 Step 2: Run Exploratory Data Analysis
 
 ```bash
 jupyter notebook data_visualization.ipynb
 ```
+
 Use code with caution.
 
 Step 3: Run Predictive Modelling
